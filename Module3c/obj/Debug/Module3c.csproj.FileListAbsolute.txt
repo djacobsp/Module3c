@@ -1,0 +1,6 @@
+c:\users\djac\documents\visual studio 2013\Projects\Module3c\Module3c\bin\Debug\Module3c.exe.config
+c:\users\djac\documents\visual studio 2013\Projects\Module3c\Module3c\obj\Debug\Module3c.csprojResolveAssemblyReference.cache
+c:\users\djac\documents\visual studio 2013\Projects\Module3c\Module3c\bin\Debug\Module3c.exe
+c:\users\djac\documents\visual studio 2013\Projects\Module3c\Module3c\bin\Debug\Module3c.pdb
+c:\users\djac\documents\visual studio 2013\Projects\Module3c\Module3c\obj\Debug\Module3c.exe
+c:\users\djac\documents\visual studio 2013\Projects\Module3c\Module3c\obj\Debug\Module3c.pdb
